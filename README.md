@@ -8,3 +8,4 @@ This project contains the basics of expressJS
  Using handlebar, While using handlebar saw the first error :
    app.engine('handlebars', exphbs()); exhbs function
    tried app.engine('.hbs', exphbs.engine({ extname: '.hbs', defaultLayout: "main"})); code instead
+   
